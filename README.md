@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Iván de Luna.
 - :mortar_board: M.Sc. International Finance and Ph.D. in Business Administration.
 - 👀 Interests: Regional development, data science and entrepreneurship.
-- 🌱 Currently working at IMPLAN Torreón as Strategic Research Director, and as an independent consultant in data analysis.
+- 🌱 Currently working as an independent consultant in data analysis, business development and project management.
 - :memo: Sometimes I write about finance, economics, regional development and social issues.
 - 📫 You can reach me at Twitter @idelunaa or Github and Medium @ivandeluna
 - :speech_balloon: Opinions on my own.
