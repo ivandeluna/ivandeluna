@@ -58,9 +58,9 @@ Finanzas — *Tec de Monterrey* · M.Sc. Finanzas Internacionales — *HWR Berli
 
 - 🌐 **Sitio web:** [ivandeluna.github.io](https://ivandeluna.github.io)
 - 🐦 **Twitter / X:** [@idelunaa](https://twitter.com/idelunaa)
-- 💼 **LinkedIn:** [Agregar link](https://www.linkedin.com/in/ivandeluna/)
-- 📚 **Google Scholar:** [Agregar link](https://scholar.google.com/citations?user=fDdQZpkAAAAJ&hl=es)
-- 🔬 **ORCID:** [Agregar ID](https://orcid.org/0000-0002-4197-6363)
+- 💼 **LinkedIn:** [Iván de Luna-Aldape](https://www.linkedin.com/in/ivandeluna/)
+- 📚 **Google Scholar:** [Iván de Luna-Aldape](https://scholar.google.com/citations?user=fDdQZpkAAAAJ&hl=es)
+- 🔬 **ORCID:** [0000-0002-4197-6363](https://orcid.org/0000-0002-4197-6363)
 
 ---
 
