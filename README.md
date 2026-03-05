@@ -1,4 +1,4 @@
-# Iván de Luna
+# Iván de Luna-Aldape
 
 **Economista · Científico de Datos · Consultor en Desarrollo Regional**
 Torreón, México · [ivandeluna.github.io](https://ivandeluna.github.io)
