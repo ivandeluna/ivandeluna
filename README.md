@@ -10,7 +10,7 @@ Trabajo en la intersección de la economía cuantitativa, las finanzas y la cien
 **Formación:**
 Finanzas — *Tec de Monterrey* · M.Sc. Finanzas Internacionales — *HWR Berlin* · Doctorado en Administración y Alta Dirección — *UAdeC* · Especialidad en Métodos Estadísticos — *CIMAT*
 
-**Actualmente:** Gerente de IT-Finanzas · Docente de gestión de riesgos · Consultor independiente en inteligencia de negocios
+**Actualmente:** Gerente de IT-Finanzas · Docente de gestión de riesgos y finanzas internacionales· Consultor independiente en inteligencia de negocios
 
 ---
 
@@ -39,18 +39,15 @@ Finanzas — *Tec de Monterrey* · M.Sc. Finanzas Internacionales — *HWR Berli
 
 ## Tecnologías
 
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Quarto](https://img.shields.io/badge/Quarto-75AADB?style=flat&logo=quarto&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=r,python,jupyter,git,github,vscode&theme=light)](https://skillicons.dev)
 
 ---
 
-## GitHub Stats
+## Actividad
 
-![Iván de Luna GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivandeluna&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ivandeluna&layout=compact&hide_border=true&langs_count=6)
+![GitHub Streak](https://streak-stats.demolab.com?user=ivandeluna&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=es)
+
+![Profile views](https://komarev.com/ghpvc/?username=ivandeluna&color=276DC3&style=flat&label=Visitas+al+perfil)
 
 ---
 
